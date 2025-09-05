@@ -1,5 +1,5 @@
 # Hi, I'm Nobin 👋
-**Aspiring AI Developer | Offensive Security Enthusiast | Breaking Systems to Build Mastery**
+**Aspiring AI Dev | Offensive Security Enthusiast | Breaking Systems to Build Mastery**
 
 [![Profile Views](https://komarev.com/ghpvc/?username=phantomG0D&color=blueviolet)](https://github.com/phantomG0D)
 [![Visitors](https://visitor-badge.glitch.me/badge?page_id=phantomG0D.phantomG0D)](https://github.com/phantomG0D)
